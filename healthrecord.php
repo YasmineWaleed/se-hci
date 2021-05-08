@@ -100,26 +100,7 @@
 
                         </tr>
                     </table>
-					<!-- <div class="group-input"> <b> <p>Firstname</p></b>
-						<input type="text" name="firstname" placeholder="Enter your first name"> </div>
-					<div class="group-input"> <b>  <p>Lastname</p></b>
-						<input type="text" name="lastname" placeholder="Enter your last name"> </div>
-                        <div class="group-input"> <b>  <p>E-mail</p></b>
-						<input type="text" name="E-mail" placeholder="Enter your E-mail"> </div>
-					<div class="group-input"> <b> <p>Dateofbirth</p></b>
-						<input type="text" name="dateofbirth" placeholder="Enter your date of birth"> </div>
-					<div class="group-input"> <b>  <p>Address</p></b>
-						<input type="password" name="Address" placeholder="Enter your Address"> </div>
-					<div class="group-input"> <b>   <p>City</p></b>
-						<input type="password" name="city" placeholder="Enter your city"> </div>
-                        <div class="group-input"> <b>   <p>Phonenumber</p></b>
-						<input type="password" name="phone number" placeholder="Enter your phone number"> </div>
-                        <div class="group-input"> <b>   <p>Gender</p></b>
-						<input type="password" name="Gender" placeholder="Enter your Gender"> </div> -->
-
-					<div class="group-btn">
-						<!-- <input type="Done" class="bButton" name="create" value="done"> </div> -->
-                        
+				
 				</form>
 			</div>
 	</body>
