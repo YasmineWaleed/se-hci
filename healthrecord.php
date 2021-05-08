@@ -12,7 +12,8 @@
 	</head>
 
 	<body>
-		
+		<?php
+        include("header.php");?>
 			<div class="form">
             <h1>Add a new patient</h1>
 				<form method="POST" action="healthrecord.php">
