@@ -1,8 +1,6 @@
 
     <div class="header flex">
-        <div class="logo fl-1">
-            <img src="layouts/imgs/logo.jpeg" alt="">
-        </div>
+        
         <div class="menu fl-2 flex">
          <a href="home.php"> <p class="fl-1 header-item"> Home </p>
            <a href="ont.php"> <p class="fl-1 header-item">Contact</p></a>

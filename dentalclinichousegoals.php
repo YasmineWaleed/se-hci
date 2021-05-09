@@ -12,7 +12,7 @@
 	</head>
     <body>
     <?php
-        include("header.php");?>
+   include("header.php");?>
         <div class="view-container" style="text-align:center;margin-top: 100px;">
         <div class="row" style="width: 50%;margin:0 auto;">
     <div class="column">
